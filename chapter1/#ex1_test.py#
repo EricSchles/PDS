@@ -1,0 +1,4 @@
+from ex1 import *
+
+for i in range(1,50):
+    promptAndExtractDate()
